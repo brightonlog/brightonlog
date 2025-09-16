@@ -34,6 +34,5 @@ Currently a **SSAFY 14th** student studying both web frontend and backend, and I
 
 ---
 
-**“Creative code with pastel vibes.”**  
 
 </div>
