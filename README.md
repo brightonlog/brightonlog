@@ -1,5 +1,5 @@
 <div align="center">
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Erin's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 # 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝑀𝓎 𝒢𝒾𝓉𝐻𝓊𝒷! ✨
 
 Hi, I'm **Yerin Kim** (you can call me **Erin**)!  
