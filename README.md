@@ -1,41 +1,64 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Erin's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
----
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Erin's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
   
-# 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝑀𝓎 𝒢𝒾𝓉𝐻𝓊𝒷! ✨
+  <br>
 
-Hi, I'm **Yerin Kim** (you can call me **Erin**)!  
-I enjoy traveling, language exchange, and solving algorithms.  
-Currently a **SSAFY 14th** student studying both web frontend and backend, and I’m passionate about building a career overseas. 🌍
+# Hi there, I'm Erin! 👋
 
----
+  <br>
 
-###  𝓣𝒆𝒸𝒉 𝒮𝓉𝒶𝒸𝓀  
-![HTML5](https://img.shields.io/badge/HTML5-ADD8E6?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-FFB6C1?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-B0E0E6?style=for-the-badge&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
+I'm **Yerin Kim** (Please call me **Erin**!) <br>
+I enjoy traveling, language exchange, and solving algorithms. <br>
+Currently a **SSAFY 14th** student studying both web frontend and backend. <br>
+I’m passionate about building a career overseas. 🌍
 
----
+</div>
 
-###  About Me  
-- 🎓 SSAFY 14th student  
--  Interested in working abroad  
--  Love designing beautiful UI & neat code  
--  Always growing and learning new things  
+<br>
 
----
+<div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack ✨ </h2>
+  <br> 
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  
+  <br>
 
-###  GitHub Stats  
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+  <br>
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</div>
+
+<br>
+
+### 👩‍💻 About Me
+
+- 🎓 **SSAFY 14th** student
+- ✈️ Interested in **working abroad**
+- 🎨 Love designing **beautiful UI & neat code**
+- 🌱 Always growing and learning new things
+
+<br>
+
+<div align="center">
+
+### 📈 GitHub Stats
+
 ![brightonlog's GitHub stats](https://github-readme-stats.vercel.app/api?username=brightonlog&show_icons=true&theme=catppuccin_latte&hide_border=true)
 
----
+<br>
 
-###  Contact Me  
+### 📮 Contact Me
+
 [![Email](https://img.shields.io/badge/Email-ADD8E6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fls4804@gmail.com)
-
----
-
 
 </div>
