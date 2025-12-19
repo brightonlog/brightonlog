@@ -8,10 +8,7 @@
 
   <br>
 
-I'm **Yerin Kim** (Please call me **Erin**!) <br>
-I enjoy traveling, language exchange, and solving algorithms. <br>
-Currently a **SSAFY 14th** student studying both web frontend and backend. <br>
-I’m passionate about building a career overseas. 🌍
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3293D6&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Yerin+Kim+👋;Junior+Full+Stack+Developer;Python+%7C+Django+%7C+Vue.js+%7C+MySQL;Let's+Build+Something+Amazing!" alt="Typing SVG" /></a>
 
 </div>
 
