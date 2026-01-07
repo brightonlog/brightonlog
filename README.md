@@ -50,8 +50,7 @@
 
 ### 📈 GitHub Stats
 
-![brightonlog's GitHub stats](https://github-readme-stats.vercel.app/api?username=brightonlog&show_icons=true&theme=catppuccin_latte&hide_border=true)
-
+![brightonlog's GitHub stats](https://github-readme-stats.vercel.app/api?username=brightonlog&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula)
 <br>
 
 ### 📮 Contact Me
