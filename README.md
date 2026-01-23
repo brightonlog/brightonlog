@@ -39,7 +39,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 **SSAFY 14th** student
+- 🎓 **SSAFY 14th**
 - ✈️ Interested in **working abroad**
 - 🎨 Love designing **beautiful UI & neat code**
 - 🌱 Always growing and learning new things
