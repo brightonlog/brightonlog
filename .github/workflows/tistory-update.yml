@@ -1,0 +1,17 @@
+name: Latest Blog Posts
+
+on:
+  schedule:
+    # 매일 정해진 시간에 실행 (UTC 0시 = 한국 시간 오전 9시)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 수동 실행 버튼 생성
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          # 예린님의 티스토리 RSS 주소로 변경하세요!
+          feed_list: "https://attention-is-all-i-need.tistory.com/"
