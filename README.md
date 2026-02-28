@@ -40,6 +40,8 @@
 </div>
 <br>
 
+# 📚 Latest Blog Posts
+
 ### 👩‍💻 About Me
 
 - 🎓 **SSAFY 14th**
