@@ -12,13 +12,5 @@ jobs:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          # 티스토리 RSS 주소
-          feed_list: "https://attention-is-all-i-need.tistory.com/rss"
-          # 1. 더 강력한 변장 도구 (User Agent)
-          user_agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
-          # 2. 티스토리가 좋아하는 데이터 포맷 강제 지정
-          custom_tags: "item"
-          # 3. 어떻게 보여줄지 모양 잡기 (에러 방지에 도움을 줍니다)
-          template: "$newline- [ ] [$title]($url) ($date)"
-          date_format: "yyyy-mm-dd"
+          feed_list: "https://api.allorigins.win/raw?url=https://attention-is-all-i-need.tistory.com/rss"
           max_post_count: 5
