@@ -48,6 +48,10 @@
 - 🌱 Always growing and learning new things
 
 <br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/brightonlog/github-profile-3d-contrib/master/profile-3d-contrib/profile-season-animate.svg" alt="3d contributions graph" />
+</div>
+<br>
 
 <div align="center">
 
