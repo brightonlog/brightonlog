@@ -38,14 +38,6 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 </div>
 
-<br>
-
-<div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 GitHub Stats 📊 </h2>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=brightonlog&show_icons=true&theme=transparent&rank_icon=github" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brightonlog&layout=compact&theme=transparent" height="150" alt="Top Languages" />
-</div>
 
 <br>
 
