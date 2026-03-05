@@ -1,4 +1,10 @@
 
+- [[SSAFY] AI 모델 학습, MLflow로 야무지게 관리하자!](https://attention-is-all-i-need.tistory.com/61)
+- [[SSAFY] 넘어져도 괜찮아, 프로젝트에 지친 싸피생에게 전하는 5가지 꿀팁](https://attention-is-all-i-need.tistory.com/60)
+- [[SSAFY] 특화 PJT 1-2주차 회고](https://attention-is-all-i-need.tistory.com/59)
+- [HTTP 통신과 Socket 통신? 딱 정리해드려요](https://attention-is-all-i-need.tistory.com/58)
+- [포팅과 JNI 개념 정리하기](https://attention-is-all-i-need.tistory.com/57)
+
 - [[SSAFY] 특화 PJT 1-2주차 회고](https://attention-is-all-i-need.tistory.com/59)
 - [컴퓨터에서 메모리란?](https://attention-is-all-i-need.tistory.com/56)
 - [DTO란? (엔티티를 외부에서 받으면 안되는 이유)](https://attention-is-all-i-need.tistory.com/55)
