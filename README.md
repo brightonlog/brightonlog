@@ -5,12 +5,6 @@
 - [HTTP 통신과 Socket 통신? 딱 정리해드려요](https://attention-is-all-i-need.tistory.com/58)
 - [포팅과 JNI 개념 정리하기](https://attention-is-all-i-need.tistory.com/57)
 
-- [[SSAFY] 특화 PJT 1-2주차 회고](https://attention-is-all-i-need.tistory.com/59)
-- [컴퓨터에서 메모리란?](https://attention-is-all-i-need.tistory.com/56)
-- [DTO란? (엔티티를 외부에서 받으면 안되는 이유)](https://attention-is-all-i-need.tistory.com/55)
-- [테이블, 쿼리, 엔티티, API 개념 정리](https://attention-is-all-i-need.tistory.com/54)
-- [Domain Model Pattern, Transaction Script Pattern 이해하기](https://attention-is-all-i-need.tistory.com/53)
-
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Erin's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
