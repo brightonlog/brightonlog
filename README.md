@@ -12,7 +12,7 @@
 
   <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3293D6&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Yerin+Kim+👋;Junior+Full+Stack+Developer;Python+%7C+Django+%7C+Vue.js+%7C+MySQL;Let's+Build+Something+Amazing!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3293D6&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Yerin+Kim+👋;Junior+Full+Stack+Developer;Python+%7C+Java+%7C+Django+%7C+Spring-Boot+%7C+Vue.js+%7C+MySQL;Let's+Build+Something+Amazing!" alt="Typing SVG" /></a>
 
 </div>
 
